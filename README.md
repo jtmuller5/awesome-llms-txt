@@ -10,4 +10,5 @@ In late 2024, Answer.ai proposed a standardized way for websites to present thei
 
 ## Tools
 
+- [llmss_txt2ctx](https://llmstxt.org/intro.html#cli)
 - [llms-generator](https://github.com/nfodor/llms-generator)
