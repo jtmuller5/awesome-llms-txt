@@ -150,6 +150,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 
 ## Tools
 
+- [llmstxt.directory](https://llmstxt.directory/)
 - [llmss_txt2ctx](https://llmstxt.org/intro.html#cli)
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/)
 - [llms-generator](https://github.com/nfodor/llms-generator)
