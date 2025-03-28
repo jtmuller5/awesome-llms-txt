@@ -8,6 +8,7 @@ In late 2024, Answer.ai proposed a standardized way for websites to present thei
 - [Fastht.ml](https://fastht.ml/docs/llms.txt)
 - [Daisyui.com](https://daisyui.com/llms.txt)
 - [Supabase.com](https://supabase.com/docs/llms.txt)
+- [Firecrawl.dev](https://www.firecrawl.dev/llms.txt)
 
 ## Tools
 
