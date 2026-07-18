@@ -122,6 +122,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [Sherlock Domains](https://www.sherlockdomains.com/llms.txt)
 - [SkyDeck.ai](https://llm.skydeck.ai/llms.txt)
 - [Smartcar](https://smartcar.com/docs/llms.txt)
+- [smry](https://smry.ai/llms.txt)
 - [Solid](https://docs.solidfi.com/llms.txt)
 - [Speakeasy](https://www.speakeasy.com/llms.txt)
 - [Stedi](https://www.stedi.com/docs/llms.txt)
