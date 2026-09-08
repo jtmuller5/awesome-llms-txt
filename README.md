@@ -62,6 +62,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [FractalPay](https://docs.fractalpay.com/llms.txt)
 - [Frigade](https://docs.frigade.com/llms.txt)
 - [Galileo](https://docs.rungalileo.io/llms.txt)
+- [GEOKit](https://geokit.site/llms.txt)
 - [Goody](https://developer.ongoody.com/llms.txt)
 - [Helicone](https://www.helicone.ai/llms.txt)
 - [Hugging Face Accelerate](https://huggingface-projects-docs-llms-txt.hf.space/accelerate/llms.txt)
@@ -159,3 +160,5 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/)
 - [llms-generator](https://github.com/nfodor/llms-generator)
 - [starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/)
+- [GEOKit LLMs.txt Generator](https://geokit.site/tools/llms-generator) - Free visual builder and validator for `/llms.txt` and `/llms-full.txt`.
+
