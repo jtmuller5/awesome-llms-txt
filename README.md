@@ -7,6 +7,7 @@ In late 2024, Answer.ai proposed a standardized way for websites to present thei
 I'll help you convert the data into the markdown format you've started. I'll continue your list in alphabetical order:
 
 ## In the Wild
+- [A11yKit](https://a11ykit.site/llms.txt)
 - [activepieces.com](https://www.activepieces.com/docs/llms.txt)
 - [Agent Domain](https://www.agentdomain.xyz/llms.txt)
 - [AI Squared](https://docs.squared.ai/llms.txt)
