@@ -140,6 +140,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [Trail of Bits](https://www.trailofbits.com/llms.txt)
 - [Trigger.dev](https://trigger.dev/docs/llms.txt)
 - [Turso](https://docs.turso.tech/llms.txt)
+- [turva.dev](https://turva.dev/llms.txt)
 - [UnifyGTM](https://docs.unifygtm.com/llms.txt)
 - [Unkey](https://www.unkey.com/docs/llms.txt)
 - [Unstructured](https://docs.unstructured.io/llms.txt)
@@ -163,3 +164,4 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/)
 - [llms-generator](https://github.com/nfodor/llms-generator)
 - [starlight-llms-txt](https://delucis.github.io/starlight-llms-txt/)
+- [turva-llms-txt-validator](https://github.com/erekola/llms-txt-validator)
