@@ -97,6 +97,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [Micro1](https://docs.micro1.ai/llms.txt)
 - [Mintlify](https://mintlify.com/docs/llms.txt)
 - [Mystery-o-matic](https://mystery-o-matic.com/llms.txt)
+- [Not Human Search](https://nothumansearch.ai/llms.txt)
 - [OpenPhone](https://www.openphone.com/docs/llms.txt)
 - [OpenPipe](https://docs.openpipe.ai/llms.txt)
 - [Oxla](https://docs.oxla.com/llms.txt)
