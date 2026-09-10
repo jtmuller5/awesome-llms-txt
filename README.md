@@ -131,6 +131,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [Svelte](https://svelte.dev/llms.txt)
 - [Tavus](https://docs.tavus.io/llms.txt)
 - [The Data Driven Marketer](https://datadrivenmarketer.me/llms.txt)
+- [TheDrop](https://thedrop.gifts/llms.txt)
 - [TheirStack](https://theirstack.com/docs/llms.txt)
 - [Tinybird](https://www.tinybird.co/docs/llms.txt)
 - [Tiptap](https://tiptap.dev/llms.txt)
