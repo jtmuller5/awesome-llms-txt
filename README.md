@@ -39,6 +39,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [DeployHQ](https://www.deployhq.com/llms.txt)
 - [Dopp Finance](https://docs.dopp.finance/llms.txt)
 - [dotenvx](https://dotenvx.com/llms.txt)
+- [DrinkedIn](https://drinkedin.net/llms.txt)
 - [Dub](https://dub.co/docs/llms.txt)
 - [DuckDB](https://duckdb.org/duckdb-docs.md)
 - [Dynamic](https://docs.dynamic.xyz/llms.txt)
