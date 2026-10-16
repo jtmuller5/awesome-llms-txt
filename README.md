@@ -25,6 +25,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [Bucket](https://docs.bucket.co/llms.txt)
 - [CalendarScripts](https://blog.calendarscripts.info/llms.txt)
 - [Campsite](https://developers.campsite.com/llms.txt)
+- [CareJobs.Now](https://carejobs.now/llms.txt)
 - [Clever Cloud](https://www.clever-cloud.com/developers/llms.txt)
 - [Cloudflare Docs](https://developers.cloudflare.com/llms.txt)
 - [Cobo](https://www.cobo.com/developers/llms.txt)
