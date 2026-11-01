@@ -122,6 +122,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [SeDigital](https://www.sedigital.es/llms.txt)
 - [ServiceStack](https://docs.servicestack.net/llms.txt)
 - [Sherlock Domains](https://www.sherlockdomains.com/llms.txt)
+- [SitePatent](https://sitepatent.com/llms.txt)
 - [SkyDeck.ai](https://llm.skydeck.ai/llms.txt)
 - [Smartcar](https://smartcar.com/docs/llms.txt)
 - [smry](https://smry.ai/llms.txt)
