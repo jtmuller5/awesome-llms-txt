@@ -90,6 +90,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [LuxAlgo](https://docs.luxalgo.com/llms.txt)
 - [Manifestly Checklists](https://manifest.ly/llms.txt)
 - [Mangopay](https://docs.mangopay.com/llms.txt)
+- [MEDIAPRONET](https://mediapronet.com/llms.txt)
 - [Medusa](https://docs.medusajs.com/llms.txt)
 - [Meilisearch](https://www.meilisearch.com/llms.txt)
 - [MeshConnect](https://docs.meshconnect.com/llms.txt)
