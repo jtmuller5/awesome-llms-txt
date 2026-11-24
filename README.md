@@ -7,6 +7,7 @@ In late 2024, Answer.ai proposed a standardized way for websites to present thei
 I'll help you convert the data into the markdown format you've started. I'll continue your list in alphabetical order:
 
 ## In the Wild
+- [72FM](https://72fm.com/llms.txt)
 - [activepieces.com](https://www.activepieces.com/docs/llms.txt)
 - [Agent Domain](https://www.agentdomain.xyz/llms.txt)
 - [AI Squared](https://docs.squared.ai/llms.txt)
@@ -48,6 +49,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [EmbedChain](https://docs.embedchain.ai/llms.txt)
 - [Envoyer](https://docs.envoyer.io/llms.txt)
 - [Evan Boehs](https://boehs.org/llms.txt)
+- [events.lat](https://events.lat/llms.txt)
 - [Exemplar's AI Engineer's Handbook](https://handbook.exemplar.dev/llms.txt)
 - [Expo](https://docs.expo.dev/llms.txt)
 - [Fabric](https://developer.fabric.inc/llms.txt)
@@ -61,6 +63,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [FlowX](https://docs.flowx.ai/llms.txt)
 - [FractalPay](https://docs.fractalpay.com/llms.txt)
 - [Frigade](https://docs.frigade.com/llms.txt)
+- [FurniFindUSA](https://furnifindusa.com/llms.txt)
 - [Galileo](https://docs.rungalileo.io/llms.txt)
 - [Giselle](https://docs.giselles.ai/llms.txt)
 - [Goody](https://developer.ongoody.com/llms.txt)
@@ -85,6 +88,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [litdb](https://litdb.dev/llms.txt)
 - [Liveblocks](https://liveblocks.io/llms.txt)
 - [llms.txt](https://llmstxt.org/llms.txt)
+- [LoftLoom](https://loftloom.com/llms.txt)
 - [Loops](https://loops.so/docs/llms.txt)
 - [Lots of CSVs](https://lotsofcsvs.com/llms.txt)
 - [LuxAlgo](https://docs.luxalgo.com/llms.txt)
@@ -97,6 +101,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [Micro1](https://docs.micro1.ai/llms.txt)
 - [Mintlify](https://mintlify.com/docs/llms.txt)
 - [Mystery-o-matic](https://mystery-o-matic.com/llms.txt)
+- [NameSale](https://namesale.store/llms.txt)
 - [Not Human Search](https://nothumansearch.ai/llms.txt)
 - [OpenPhone](https://www.openphone.com/docs/llms.txt)
 - [OpenPipe](https://docs.openpipe.ai/llms.txt)
@@ -151,6 +156,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [Vital](https://docs.tryvital.io/llms.txt)
 - [Web3 Jobs](https://web3.career/llms.txt)
 - [Webrecorder](https://webrecorder.net/llms.txt)
+- [wine.equipment](https://wine.equipment/llms.txt)
 - [WordLift](https://wordlift.io/llms.txt)
 - [Workflow](https://docs.workflow.design/llms.txt)
 - [WXT](https://wxt.dev/knowledge/docs.txt)
