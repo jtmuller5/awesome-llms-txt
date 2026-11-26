@@ -127,6 +127,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [smry](https://smry.ai/llms.txt)
 - [Solid](https://docs.solidfi.com/llms.txt)
 - [Speakeasy](https://www.speakeasy.com/llms.txt)
+- [StagePeek](https://stagepeek.live/llms.txt)
 - [Stedi](https://www.stedi.com/docs/llms.txt)
 - [Supabase](https://supabase.com/docs/llms.txt)
 - [Svelte](https://svelte.dev/llms.txt)
